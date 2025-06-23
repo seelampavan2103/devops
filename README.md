@@ -1,3 +1,3 @@
 # devops
-This is about Devops
-Devops is used to clear buggies
+This is about Devops <br>
+used to clear buggies
